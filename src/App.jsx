@@ -7,6 +7,7 @@ import { Products } from "./components/Products/Products";
 // import { Navbar } from "./components/Home/Navbar/Navbar";
 import "./App.css";
 import { Users } from "./components/Users/Users";
+import { ShopCar } from "./components/ShopCar/ShopCar";
 
 function App() {
   const [count, setCount] = useState(0);

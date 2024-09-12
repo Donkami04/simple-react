@@ -6,7 +6,7 @@ const Users = () => {
   const [showMessage, setShowMessage] = useState(false);
 
   const [newUser, setNewUser] = useState({
-    name: "",
+    name: "cacacaaca",
     age: 0,
   });
 
